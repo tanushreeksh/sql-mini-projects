@@ -231,7 +231,8 @@ ORDER BY transactions DESC;
 
 This project is part of my portfolio showcasing the SQL skills essential for data roles.
 
-- **LinkedIn**: [Connect with me www.linkedin.com/in/tanushreekshirsagar]
+- **LinkedIn**: [ Connect with me www.linkedin.com/in/tanushreekshirsagar ]
 
 
 Thank you and I look forward to connecting with you!
+
